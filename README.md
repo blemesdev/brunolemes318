@@ -7,7 +7,7 @@
 
 - 📝 College course of Mobile Developer
 
-- 💬 Ask me about **Dart/Flutter & JavaScript/React**
+- 💬 Ask me about **Dart/Flutter & Python/FasApi
 
 - 📫 How to reach me **brunolemes318@gmail.com**
 
