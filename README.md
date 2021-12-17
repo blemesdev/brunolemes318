@@ -1,15 +1,13 @@
 <h1 align="center">Hi! my name is Bruno Lemes</h1>
-<h3 align="center">Developer/Enthusiast Flutter</h3>
+<h3 align="center">Developer/Enthusiast Full Stack</h3>
 
 - 🔭 I’m currently working on **Support Analyst**
 
-- 🌱I study **Dart/Flutter & Javascript/React**
+- 🌱I study Dart/Flutter | Typescript/Angular | C#/DotNet | Python/FastApi 
 
-- 📝 College course of Mobile Developer
-
-- 💬 Ask me about **Dart/Flutter & Python/FastApi
-
-- 📫 How to reach me **brunolemes318@gmail.com**
+- 📝 College course of Full Stack Developer
+- 
+- 📫 How to reach me brunolemes318@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
