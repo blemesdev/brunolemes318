@@ -2,7 +2,7 @@
 <h3 align="center">Developer/Enthusiast Full Stack</h3>
 
 - 🔭 I’m currently working on **Support Analyst**
-- 🌱I study Dart/Flutter | C#/DotNet | Python/FastApi 
+- 🌱I study Dart/Flutter | React/JavaScript
 - 📝 College course of Full Stack Developer
 - 📫 How to reach me brunolemes318@gmail.com 
 
